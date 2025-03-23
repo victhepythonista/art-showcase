@@ -2,6 +2,7 @@ venv/
 temp/
 tests/test_data/
 build/
+dist/
 art_showcase.egg-info
 *__pycache__/
 .obsidian/
