@@ -170,6 +170,7 @@
   },
   "active": "7b99a7700d55f07f",
   "lastOpenFiles": [
+    "LICENSE",
     "dist/art_showcase-0.0.1-py3-none-any.whl",
     "dist/art_showcase-0.0.1.tar.gz",
     "dist",
@@ -180,7 +181,6 @@
     "art_showcase.egg-info",
     "venv/Lib/site-packages/pyproject_hooks/_in_process/__pycache__/__init__.cpython-313.pyc",
     "venv/Lib/site-packages/pyproject_hooks/_in_process/__pycache__/_in_process.cpython-313.pyc",
-    "venv/Lib/site-packages/pyproject_hooks/_in_process/__pycache__",
     "venv/Lib/site-packages/idna-3.10.dist-info/LICENSE.md"
   ]
 }
