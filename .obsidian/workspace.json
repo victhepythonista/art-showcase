@@ -170,17 +170,17 @@
   },
   "active": "7b99a7700d55f07f",
   "lastOpenFiles": [
-    "LICENSE",
-    "dist/art_showcase-0.0.1-py3-none-any.whl",
+    "setup.py",
     "dist/art_showcase-0.0.1.tar.gz",
-    "dist",
-    "art_showcase.egg-info/top_level.txt",
-    "art_showcase.egg-info/SOURCES.txt",
-    "art_showcase.egg-info/PKG-INFO",
-    "art_showcase.egg-info/dependency_links.txt",
-    "art_showcase.egg-info",
-    "venv/Lib/site-packages/pyproject_hooks/_in_process/__pycache__/__init__.cpython-313.pyc",
-    "venv/Lib/site-packages/pyproject_hooks/_in_process/__pycache__/_in_process.cpython-313.pyc",
+    "dist/art_showcase-0.0.1-py3-none-any.whl",
+    "dist/art_showcase-0.0.2-py3-none-any.whl",
+    "venv/Lib/site-packages/jaraco/functools/__init__.pyi",
+    "venv/Lib/site-packages/jaraco/functools/py.typed",
+    "venv/Lib/site-packages/jaraco/functools/__pycache__/__init__.cpython-313.pyc",
+    "venv/Lib/site-packages/jaraco/functools/__pycache__",
+    "venv/Lib/site-packages/jaraco/functools/__init__.py",
+    "venv/Lib/site-packages/jaraco/functools",
+    "venv/Lib/site-packages/pygments/__pycache__/token.cpython-313.pyc",
     "venv/Lib/site-packages/idna-3.10.dist-info/LICENSE.md"
   ]
 }
