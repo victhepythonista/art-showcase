@@ -28,7 +28,7 @@ pip install art-showcase
 ```
 python -m art_showcase  HelloWorld --limit 10  --random 
 ```
-- The command above will give you an output like :
+- The command above will showcase 10 fonts at random s
 
 
 - See all available commands by typing :
