@@ -1,6 +1,11 @@
 # ART SHOWCASE
+<div align="center">
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/built%20with-Python3-green.svg" alt="built with Python3"></a>
+		<a href="https://pepy.tech/projects/art_showcase"><img src="https://static.pepy.tech/badge/art_showcase" alt="PyPI">
+<a href="https://github.com/victhepythonista/art_showcase"><img src="https://img.shields.io/github/stars/victhepythonista/art_showcase.svg?style=social&label=Stars"></a>
+</div>
 
-- A  library for custom showcasing  fonts from the 'art' Pypi package , it is helpful when trying to choose a font . 
+- A  library for custom showcasing of fonts from the 'art' Pypi package , it is helpful when trying to choose a font . 
 - It contains one function **showcase()**
 - You can use it in a Python file or on a command line 
 

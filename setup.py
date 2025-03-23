@@ -14,7 +14,7 @@ setup(
     author_email="scriptilapia@gmail.com",
     long_description =long_description,
     long_description_content_type="text/markdown",
-    description="""A simple library for custom showcasing fonts from the 'art' PyPi package , it is helpful when trying to choose a font """,
+    description="""A simple library for custom showcasing of fonts from the 'art' PyPi package , it is helpful when trying to choose a font """,
     url="https://github.com/victhepythonista/art-showcase",
     project_urls={
         "Bug Tracker": "https://github.com/victhepythonista/art-showcase/issues",
